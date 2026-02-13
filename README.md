@@ -3,7 +3,8 @@ You will find SonicDE-workspace and SonicDE-workspace-lang
 in the x86 repo and the SonicDE-*.src.rpm in SRPMS. The main
 workspace rpm contains languages for 90+% of computer users worldwide while the lang package contains the rest and is an optional addon package.
 
-## While these packages "work for me" I would recommend trying them in a VM first to verify. Consider these to to testing/beta rpms.
+## This is the initial version of SonicDE-workspace-Plasma-6.5.   
+When KDE-Plasma-6.6 is updated on TumbleWeed I will package the   latest version of SonicDE. As always testing in a VM initially is prudent but that being said they "work for me" on my everyday desktop. They have also been tested on an ancient Toshiba Satellite laptop.   
 
 1. Install sonicDE-workspace. Zypper/KDE will probably complain
 that you are overwriting files. Just say yes. The sonic-workspace-lang file is optional.
